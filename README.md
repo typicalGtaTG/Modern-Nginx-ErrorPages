@@ -1,5 +1,5 @@
 # Modern-Nignx-ErrorPages
-Allows you to customize and add your own modern error pages for Nginx webserver. This is a modified version of another repo by [denysvitali] (https://github.com/denysvitali/) called [nginx error pages] (https://github.com/denysvitali/nginx-error-pages).
+Allows you to customize and add your own modern error pages for Nginx webserver. This is a modified version of another repo by [denysvitali](https://github.com/denysvitali/) called [nginx error pages](https://github.com/denysvitali/nginx-error-pages).
 
 ## Installation
 ```bash
